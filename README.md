@@ -58,3 +58,6 @@ printf("Hash verification failed. Message has been altered.\n");
 return 0;
 }
 ```
+
+Result:
+The program is executed successfully.
